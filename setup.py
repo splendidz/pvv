@@ -8,11 +8,11 @@ setup(
     long_description_content_type="text/markdown",
     author="Andy Cho",
     author_email="soohwancho@korea.ac.kr",
-    url="https://github.com/splendidz/pvv",  # 필요 시 수정
+    url="https://github.com/splendidz/pvv",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",  # 원하시는 라이선스로 바꿔도 됩니다.
+        "License :: OSI Approved :: MIT License", 
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.7",
